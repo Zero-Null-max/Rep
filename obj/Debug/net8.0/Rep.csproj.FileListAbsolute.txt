@@ -1,0 +1,16 @@
+C:\Users\college-312-3\Downloads\Rep\bin\Debug\net8.0\Rep.exe
+C:\Users\college-312-3\Downloads\Rep\bin\Debug\net8.0\Rep.deps.json
+C:\Users\college-312-3\Downloads\Rep\bin\Debug\net8.0\Rep.runtimeconfig.json
+C:\Users\college-312-3\Downloads\Rep\bin\Debug\net8.0\Rep.dll
+C:\Users\college-312-3\Downloads\Rep\bin\Debug\net8.0\Rep.pdb
+C:\Users\college-312-3\Downloads\Rep\obj\Debug\net8.0\Rep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\college-312-3\Downloads\Rep\obj\Debug\net8.0\Rep.AssemblyInfoInputs.cache
+C:\Users\college-312-3\Downloads\Rep\obj\Debug\net8.0\Rep.AssemblyInfo.cs
+C:\Users\college-312-3\Downloads\Rep\obj\Debug\net8.0\Rep.csproj.CoreCompileInputs.cache
+C:\Users\college-312-3\Downloads\Rep\obj\Debug\net8.0\Rep.sourcelink.json
+C:\Users\college-312-3\Downloads\Rep\obj\Debug\net8.0\Rep.dll
+C:\Users\college-312-3\Downloads\Rep\obj\Debug\net8.0\refint\Rep.dll
+C:\Users\college-312-3\Downloads\Rep\obj\Debug\net8.0\Rep.pdb
+C:\Users\college-312-3\Downloads\Rep\obj\Debug\net8.0\Rep.genruntimeconfig.cache
+C:\Users\college-312-3\Downloads\Rep\obj\Debug\net8.0\ref\Rep.dll
+C:\Users\college-312-3\Downloads\Rep\obj\Debug\net8.0\Rep.csproj.Up2Date
